@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="beer_library.css">
+    <script src="beer_library.js" charset="utf-8"></script>
+    <title>Beer Library</title>
+</head>
+<body>
+    <h1>DebtGes Intern Software Engineer - Javascript Challenge</h1>
+    
+    <div>
+        <h2>Welcome to the Beer Library by Punk API</h2>
+        <h3>Here you can search for any type of beer, go ahead and try it out!</h3>
+        <p><input type="text" id="data"></p>
+        <input type="button" value="Name" onclick="searchByName(document.getElementById('data').value)">
+        <input type="button" value="Matching Food" onclick="searchByFood(document.getElementById('data').value)">
+        <input type="button" value="Brewed Before" onclick="BrewedBefore(document.getElementById('data').value)">
+    </div>
+    <div>
+        <h3>Search Results:</h3>
+        <p class="res"></p>
+    </div>
+</body>
+</html>
