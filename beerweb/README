@@ -1,5 +1,5 @@
-O código está funcional e sem problemas de maior.
+O código está funcional.
 Os botões matching food e brewed before funcionam parcialmente. Mostram apenas os 25 primeiros resultados.
-Foi tomada a opção de mostrar apenas os paramentros Nome, volume, unidade de volume e descriçao das cervejas. Todos os outros podiam ser alcançados utilizando o mesmo raciocionio.
+Foi tomada a opção de mostrar apenas os paramentros Nome, volume, unidade de volume e descriçao das cervejas. Todos os outros atributos podiam ser alcançados utilizando o mesmo raciocionio.
 
 Qualquer critica é bem vinda! :)
