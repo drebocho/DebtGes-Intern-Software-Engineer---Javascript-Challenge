@@ -24,3 +24,8 @@ h1, h2, h3, p{
     background-color: white;
     opacity: 0.8;
 }
+
+.beer_icon{
+    height: 30px;
+    width: 30px;
+}
